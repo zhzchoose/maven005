@@ -6,5 +6,6 @@ public class app {
         System.out.println("asdasd");
         System.out.println("asas");
         System.out.println("ew");
+        System.out.println("ewe");
     }
 }
