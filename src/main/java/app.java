@@ -7,5 +7,6 @@ public class app {
         System.out.println("asas");
         System.out.println("ew");
         System.out.println("ewe");
+        System.out.println("qweq ");
     }
 }
